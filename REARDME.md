@@ -1,1 +1,0 @@
-# MNSIT Deployment on heroku

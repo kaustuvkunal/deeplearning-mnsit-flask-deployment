@@ -5,4 +5,4 @@ tensorflow==1.14.0
 numpy==1.17.2
 gevent
 gunicorn
-PIL
+pillow

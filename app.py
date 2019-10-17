@@ -2,7 +2,6 @@
 from flask import Flask, render_template, request
 # scientific computing library for saving, reading, and resizing images
 from scipy.misc.pilutil import imread,imresize
-from PIL import Image
 # for matrix math
 import numpy as np
 # for regular expressions, saves time dealing with string data

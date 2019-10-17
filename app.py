@@ -1,7 +1,7 @@
 # requests are objects that flask handles (get set post, etc)
 from flask import Flask, render_template, request
 # scientific computing library for saving, reading, and resizing images
-from scipy.misc import imread, imresize
+from scipy.misc.pilutil import imread,imresize
 # for matrix math
 import numpy as np
 # for regular expressions, saves time dealing with string data
